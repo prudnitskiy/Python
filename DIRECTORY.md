@@ -791,6 +791,7 @@
   * [Sumset](maths/sumset.py)
   * [Sylvester Sequence](maths/sylvester_sequence.py)
   * [Tanh](maths/tanh.py)
+  * [Test Factorial](maths/test_factorial.py)
   * [Test Prime Check](maths/test_prime_check.py)
   * [Three Sum](maths/three_sum.py)
   * [Trapezoidal Rule](maths/trapezoidal_rule.py)
@@ -955,6 +956,7 @@
     * [Sol1](project_euler/problem_009/sol1.py)
     * [Sol2](project_euler/problem_009/sol2.py)
     * [Sol3](project_euler/problem_009/sol3.py)
+    * [Sol4](project_euler/problem_009/sol4.py)
   * Problem 010
     * [Sol1](project_euler/problem_010/sol1.py)
     * [Sol2](project_euler/problem_010/sol2.py)
@@ -1265,6 +1267,7 @@
   * [Comb Sort](sorts/comb_sort.py)
   * [Counting Sort](sorts/counting_sort.py)
   * [Cycle Sort](sorts/cycle_sort.py)
+  * [Cyclic Sort](sorts/cyclic_sort.py)
   * [Double Sort](sorts/double_sort.py)
   * [Dutch National Flag Sort](sorts/dutch_national_flag_sort.py)
   * [Exchange Sort](sorts/exchange_sort.py)
